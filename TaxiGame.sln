@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxiGame.Core", "TaxiGame.Core\TaxiGame.Core.csproj", "{9112C7BF-957D-4353-BD5D-99841D3CED48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxiGame.WPF", "TaxiGame.WPF\TaxiGame.WPF.csproj", "{98C781C3-55A4-48DB-8723-BDBC8CCF7CBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9112C7BF-957D-4353-BD5D-99841D3CED48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9112C7BF-957D-4353-BD5D-99841D3CED48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9112C7BF-957D-4353-BD5D-99841D3CED48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9112C7BF-957D-4353-BD5D-99841D3CED48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98C781C3-55A4-48DB-8723-BDBC8CCF7CBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98C781C3-55A4-48DB-8723-BDBC8CCF7CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98C781C3-55A4-48DB-8723-BDBC8CCF7CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98C781C3-55A4-48DB-8723-BDBC8CCF7CBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {926E02B5-3878-47EA-8EE9-4A13A97BEC1D}
+	EndGlobalSection
+EndGlobal

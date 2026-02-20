@@ -1,0 +1,11 @@
+C:\Users\GABA Kossi Vivien\OneDrive\Documents\Test\TaxiGame\TaxiGame.Core\obj\Debug\net8.0\TaxiGame.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GABA Kossi Vivien\OneDrive\Documents\Test\TaxiGame\TaxiGame.Core\obj\Debug\net8.0\TaxiGame.Core.AssemblyInfoInputs.cache
+C:\Users\GABA Kossi Vivien\OneDrive\Documents\Test\TaxiGame\TaxiGame.Core\obj\Debug\net8.0\TaxiGame.Core.AssemblyInfo.cs
+C:\Users\GABA Kossi Vivien\OneDrive\Documents\Test\TaxiGame\TaxiGame.Core\obj\Debug\net8.0\TaxiGame.Core.csproj.CoreCompileInputs.cache
+C:\Users\GABA Kossi Vivien\OneDrive\Documents\Test\TaxiGame\TaxiGame.Core\bin\Debug\net8.0\TaxiGame.Core.deps.json
+C:\Users\GABA Kossi Vivien\OneDrive\Documents\Test\TaxiGame\TaxiGame.Core\bin\Debug\net8.0\TaxiGame.Core.dll
+C:\Users\GABA Kossi Vivien\OneDrive\Documents\Test\TaxiGame\TaxiGame.Core\bin\Debug\net8.0\TaxiGame.Core.pdb
+C:\Users\GABA Kossi Vivien\OneDrive\Documents\Test\TaxiGame\TaxiGame.Core\obj\Debug\net8.0\TaxiGame.Core.dll
+C:\Users\GABA Kossi Vivien\OneDrive\Documents\Test\TaxiGame\TaxiGame.Core\obj\Debug\net8.0\refint\TaxiGame.Core.dll
+C:\Users\GABA Kossi Vivien\OneDrive\Documents\Test\TaxiGame\TaxiGame.Core\obj\Debug\net8.0\TaxiGame.Core.pdb
+C:\Users\GABA Kossi Vivien\OneDrive\Documents\Test\TaxiGame\TaxiGame.Core\obj\Debug\net8.0\ref\TaxiGame.Core.dll
